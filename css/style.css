@@ -1,0 +1,17 @@
+.page {
+   /*max-width: 1230px;*/
+   margin: 0 auto;
+}
+
+.page__container {}
+
+[class*="__container"] {
+   max-width: 810px;
+}
+
+.page__title {}
+.page__image {}
+.page__subtitle {}
+.page__text {}
+.page__blockquote {}
+.list {}
